@@ -1,6 +1,5 @@
 # Potential Impossible Travel
-<img width="642" height="325" alt="image" src="https://github.com/user-attachments/assets/162368ec-ed90-412a-92c7-16ae7dc90ee6" />
-
+<img width="534" height="266" alt="image" src="https://github.com/user-attachments/assets/e0d3fee8-4ffc-4b60-aea4-fdccf4342b8c" />
 
 ## Platforms and Languages Leveraged
 - Windows 10 Virtual Machines (Microsoft Azure)
