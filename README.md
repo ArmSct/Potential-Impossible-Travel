@@ -45,7 +45,26 @@ Visual of the incident and the various accounts that triggered the incident.
 
 <img width="833" height="480" alt="image" src="https://github.com/user-attachments/assets/a04d4bca-fb51-44f7-9675-23be033743f1" />
 
-Investigated single account.
+Investigated one account. Nothing really alarming, all the logins were from the same location.
+<img width="431" height="183" alt="brave_zHqp1PRK0Y" src="https://github.com/user-attachments/assets/c54dd193-ba99-460c-9496-3bf758507990" />
+
+As for the second account, the all the logins were also from the same location.
+<img width="360" height="168" alt="brave_HYSLuDh0Yt" src="https://github.com/user-attachments/assets/143a9db2-5d4f-4dbe-96bc-32d0c8c1ef8c" />
+
+The logins from the rest of the accounts were all okay as well.
+
+Containment, Eradication, and Recovery
+
+It it was determined that the alert was a TRUE BENIGN. Users and logged into only one country, there was no evidence of Impossible Travel. The users accounts were left intact due to expected behavior (not disabled). There was no threat to remove, further action may be taken pending a decision from management.
+
+Post-Incident Activities
+
+Explored the option of implmenting a geo-fencing policy within azure that prevents logins outside of certain regions. 
+Documented findings and lessons learned. 
+Recorded notes within the incident. 
+Closed out the Incident within Sentinel as a “Benign Positive”.
+
+<img width="614" height="467" alt="image" src="https://github.com/user-attachments/assets/b40f4da2-0d7f-4f26-9c1e-58b2f132447f" />
 
 
 ---
