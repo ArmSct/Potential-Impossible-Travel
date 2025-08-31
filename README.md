@@ -48,7 +48,7 @@ Visual of the incident and the various accounts that triggered the incident.
 Investigated one account. Nothing really alarming, all the logins were from the same location.
 <img width="431" height="183" alt="brave_zHqp1PRK0Y" src="https://github.com/user-attachments/assets/c54dd193-ba99-460c-9496-3bf758507990" />
 
-As for the second account, the all the logins were also from the same location.
+Investigated a second account as well. Aall the logins were also from the same location.
 <img width="360" height="168" alt="brave_HYSLuDh0Yt" src="https://github.com/user-attachments/assets/143a9db2-5d4f-4dbe-96bc-32d0c8c1ef8c" />
 
 The logins from the rest of the accounts were all okay as well.
