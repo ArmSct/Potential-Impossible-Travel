@@ -1,7 +1,7 @@
 # Potential Impossible Travel
 <img width="534" height="266" alt="image" src="https://github.com/user-attachments/assets/e0d3fee8-4ffc-4b60-aea4-fdccf4342b8c" />
 
-## Platforms and Languages Leveraged 
+## Platforms and Languages Leveraged  
 - Windows 10 Virtual Machines (Microsoft Azure)
 - EDR Platform: Microsoft Defender for Endpoint 
 - Kusto Query Language (KQL)
