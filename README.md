@@ -6,7 +6,7 @@
 - EDR Platform: Microsoft Defender for Endpoint  
 - Kusto Query Language (KQL) 
 
-## Scenario
+## Scenario 
 In this lab, I simulate and investigate an unusual login behavior scenario using Microsoft Sentinel. The goal is to detect when a user logs in from multiple geographic locations within a 7-day period, which could indicate erratic login patterns and potential security concerns.
 
 ---
